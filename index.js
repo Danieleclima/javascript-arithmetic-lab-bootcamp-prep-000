@@ -21,6 +21,10 @@ function inc (a)  {
   return a
 }
 
+function inc (a)  {
+  a
+  return a
+}
 function makeInt (a)  {
   parseInt ('a', 10)
 }
