@@ -21,7 +21,7 @@ function inc (a)  {
   return a
 }
 
-function dec (a)  {
-  a--
+function makeInt (a)  {
+  parseInt ()
   return a
 }
