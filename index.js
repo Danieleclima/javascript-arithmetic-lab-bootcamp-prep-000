@@ -22,6 +22,6 @@ function inc (a)  {
 }
 
 function dec (a)  {
-  a
+  a--
   return a
 }
