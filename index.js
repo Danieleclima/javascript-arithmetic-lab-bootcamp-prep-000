@@ -16,4 +16,6 @@ function divide (a,b)  {
  return a / b
 }
 
-funcion inc (n) 
+function inc (n)  {
+ return a / b
+}
