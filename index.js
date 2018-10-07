@@ -22,7 +22,7 @@ function inc (a)  {
 }
 
 function inc (a)  {
-  a
+  a--
   return a
 }
 function makeInt (a)  {
