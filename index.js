@@ -22,6 +22,6 @@ function inc (a)  {
 }
 
 function makeInt (a)  {
-  parseInt ()
-  return a
+  parseInt (a , 10)
+
 }
